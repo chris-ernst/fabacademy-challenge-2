@@ -23,9 +23,9 @@ We decided to collaborate on a joint project that  incorporates human bodies wit
 
 In combining and navigating our interests, we saw intersections in our interests, mainly themes of immersive and interactiveness, explorative education, engaging experiences and provocative products. 
 
-After understanding our collective themes, we asked ourselves, how can we create an artifact that collects and presents data, using movement to answer provocative questions centered around MDEF journey and our collective consciousness.
+After understanding our collective themes, we asked ourselves: *how can we create an artifact that collects and presents data, using movement to answer provocative questions centered around MDEF journey and our collective consciousness?*
 
-These are the questions:
+We wanted to find a way of summarizing the topics we discussed and learned about in this second term at MDEF and find a way of generating resposnes from people who are outside of MDEF, during Design Dialogues. These are the questions:
 
 ![photo](/photos/questions.png)
 
