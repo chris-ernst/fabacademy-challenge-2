@@ -126,14 +126,33 @@ We started out by sketching various iterations of the structure. We first create
 ![photo](/photos/prototype.gif)
 
 After the prototype, we began to create the file to CNC. We settled for a MDF wooden panel which could hold in place the spinning wheel and the arm on which the motor was placed. Juaco designed some panels to hold the structure in Fusion, then worked on the gcode to be able to CNC them.
-We also modeled some attachments to keep all the electronic components in place. Juaco created an adapter from the motor to the disk (motor axle mount), another joint from the lever to the 
+We also modeled some attachments to keep all the electronic components in place. Juaco created an adapter from the motor to the disk (motor axle mount), another joint from the lever to the servo and a final one from the lever to the pen.
 
-Design & Fabrication files (open source or open format)
+*Design & Fabrication files (open source or open format)*
 
-JUACO SEND SCREENSHOTS
+You can find all the files here: [3D files for fabrication](/fab_files). 
+
+Screenshots of the process:
+
+![photo](/photos/Fusion1.png)
+![photo](/photos/Fusion2.png)
+
+
+
+![photo](/photos/CNC1.JPG)
+![photo](/photos/CNC2.JPG)
+![photo](/photos/CNC3.JPG)
+![photo](/photos/CNC4.JPG)
+
+
+
 
 ![photo](/photos/juaco_cnc_result.jpg)
 
+![photo](/photos/juaco_chris.jpeg)
+![photo](/photos/juaco_chris2.jpeg)
+
+![photo](/photos/3d2.png)
 
 
 *BOM (Build of Materials)*
