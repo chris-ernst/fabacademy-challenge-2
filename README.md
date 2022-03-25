@@ -57,6 +57,15 @@ For example, Tatiana and Busi were interested in working with Grasshopper, Ardui
 
 Initial Sketches
 
+<p float="left">
+  <img src="/photos/sketch1.jpg" width="100" />
+  <img src="/photos/sketch2.jpg" width="100" /> 
+  <img src="/photos/sketch3.jpg" width="100" />
+  <img src="/photos/sketch4.jpg" width="100" />
+  <img src="/photos/sketc54.jpg" width="100" />
+</p>
+
+
 ![photo](/photos/sketch1.jpg) ![photo](/photos/sketch2.jpg) ![photo](/photos/sketch3.jpg) ![photo](/photos/sketch4.jpg)
  ![photo](/photos/sketch5.jpg)
 
