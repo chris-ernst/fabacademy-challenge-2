@@ -50,7 +50,7 @@ What should the Artifact not do:
 
 
 
-### Shown how your team planned and executed the project
+### Show how your team planned and executed the project
 
 ![photo](/photos/plan.png)
 
@@ -117,7 +117,7 @@ The handle meant to hold the servo and pen was designed in Fusion, then laser cu
 All of us were unfamiliar with Grasshopper, so we were excited to dive deeper into that software. It encouraged us to approach the program with an unfamiliar, new mindset because the logic behind the nodes was not something we were used to.
 The rotation of the wheel: we came up with an unconventional solution to spinning the wheel with the motor, since we wanted to spin it slower than what the motor allowed us. We used a rubber band to create friction around the wheel. 
 
-###Explore design boundaries (based on your expertise)
+### Explore design boundaries (based on your expertise)
 
 In the exploratory phase, we encouraged each other to work with unfamiliar topics so that we could expand our knowledge. Tatiana and Busi worked on Arduino, which is something they didn’t have much knowledge on, while Juaco experimented with the Kinect and we all worked on the grasshopper file, contributing what we could and asking Edu for help.
 
