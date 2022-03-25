@@ -55,12 +55,17 @@ For example, Tatiana and Busi were interested in working with Grasshopper, Ardui
 
 *System diagram (illustration explaining function, parts, and relations)*
 
-Busi file
+Initial Sketches
+
+![photo](/photos/sketch1.jpg) ![photo](/photos/sketch2.jpg) ![photo](/photos/sketch3.jpg) ![photo](/photos/sketch4.jpg)
+ ![photo](/photos/sketch5.jpg)
+
 
 
 *Integrated Design (How you designed it - relation between elements)*
 
 Relation between elements
+
 Busi file
 
 *XBox Kinect to Firelfy: We connected the Kinect to Firefly creating parameters and co-ordinated to sense gestures and 
@@ -99,37 +104,47 @@ In the exploratory phase, we encouraged each other to work with unfamiliar topic
 
 When it was time to work fast, however, we did give priority to those who had expertise in the fields we needed.
 
-Listed future development opportunity for this project
+*Listed future development opportunity for this project*
+
 We wanted to explore how digital data can make physical products. It would be interesting to introduce more mediums to play with the Kinect.
 It would be nice to paint the board black so that we wouldn’t make any marks with the sharpie, and also find a good dimension white paper for the spinning wheel.
-Replicability
+
+
+*Replicability*
+
 Level of clarity and detail of the documentation material (photos, video, text, etc)
 How did you fabricate it (fabrication processes and materials)
 We started out by sketching various iterations of the structure. We first created a cardboard prototype to understand the dimensions and functionality of the box.
+
 ![photo](/photos/prototype.gif)
+
 After the prototype, we began to create the file to CNC. We settled for a MDF wooden panel which could hold in place the spinning wheel and the arm on which the motor was placed. Juaco designed some panels to hold the structure in Fusion, then worked on the gcode to be able to CNC them.
 We also modeled some attachments to keep all the electronic components in place. Juaco created an adapter from the motor to the disk (motor axle mount), another joint from the lever to the 
 
 Design & Fabrication files (open source or open format)
+
 JUACO SEND SCREENSHOTS
+
+![photo](/photos/juaco_cnc_result.jpg)
+
 
 
 *BOM (Build of Materials)*
 
-Computer ;)
-Kinect
-Arduino 13
-Button
-Motor
-Servo
-10 cables
-1 MDF panel 1 220 x 2440 x 10.3 mm 
-Carboard panel cut in a 50x50cm circle
-Screw to fit between MDF panel and cardboard circle.
-Acrylic scraps (Ours was 40x15cm)
-3D printed material
+*Computer ;)
+*Kinect
+*Arduino 13
+*Button
+*Motor
+*Servo
+*10 cables
+*1 MDF panel 1 220 x 2440 x 10.3 mm 
+*Carboard panel cut in a 50x50cm circle
+*Screw to fit between MDF panel and cardboard circle.
+*Acrylic scraps (Ours was 40x15cm)
+*3D printed material
 
-Iteration Process (spiral development)
+*Iteration Process (spiral development)*
 
 Working with the Kinect: Juaco, Busi and Tatiana worked on Grasshopper, connecting the Kinect to a servo. The servo would move up or down based on the distance between the participant’s hands. The wider the distance, the more the servo would move in a certain direction.
 On Wednesday, we created our first iteration of the project. We made a prototype out of cardboard which contained the spinning wheel and the lever that moved the pen up and down according to the movements detected by the Kinect.
@@ -146,8 +161,10 @@ There was a problem when trying to control the amount of time for which the moto
 The motor’s spinning was hard to control: the threshold it had was very specific and below a certain number, it would just shut down. This meant that the full rotation was too fast for what we required. We solved this problem by creating a sort of gear with the spinning wheel.
 
 
-Photographies of the end artifacts
+*Photographies of the end artifacts*
+
 Final photos:
+
 ![photo](/photos/final_mount.gif)
 
 
