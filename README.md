@@ -144,17 +144,21 @@ We also modeled some attachments to keep all the electronic components in place.
 Here are screenshots of the process done in grasshoppper.
 
 <p float="left">
-  <img src="/photos/GHArduino.png" width="200" />
-  <img src="/photos/GHFirstProgram.png" width="200" />
-  <img src="/photos/GHKinect.png" width="200" />
-  <img src="/photos/GHservo.png" width="200" />
+  <img src="/photos/GHArduino.png" width="500" />
+  <img src="/photos/GHFirstprogram.png" width="500" />
 </p>
 
 
 <p float="left">
-  <img src="/photos/GHdcmotor1.png" width="300" />
-  <img src="/photos/GHdcmotor2.png" width="300" />
-  <img src="/photos/GHphrases.png" width="300" />
+ <img src="/photos/GHKinect.png" width="500" />
+  <img src="/photos/GHservo.png" width="500" />
+</p>
+
+
+<p float="left">
+  <img src="/photos/GHdcmotor1.png" width="350" />
+  <img src="/photos/GHdcmotor2.png" width="350" />
+  <img src="/photos/GHphrases.png" width="350" />
 </p>
 
 ### Design & Fabrication files (open source or open format)
