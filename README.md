@@ -1,9 +1,12 @@
 # FabAcademy Micro Challenge II
 
-Woah!! Tatiana, Busi, Joaquin and Chris are building an interactive feedback recorder for Design Dialogues. More soon. 
+Woah!! Tatiana, Busi, Joaquin and Chris are building an interactive feedback recorder for Design Dialogues.  
 
 
 Here you'll find the [3D files for fabrication](/fab_files). All files CC. 
+
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOErRQPQ=/?moveToViewport=-555,-3315,3861,3052" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 
 # Emergent Interrogations
