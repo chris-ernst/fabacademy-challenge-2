@@ -108,7 +108,7 @@ The handle meant to hold the servo and pen was designed in Fusion, then laser cu
 All of us were unfamiliar with Grasshopper, so we were excited to dive deeper into that software. It encouraged us to approach the program with an unfamiliar, new mindset because the logic behind the nodes was not something we were used to.
 The rotation of the wheel: we came up with an unconventional solution to spinning the wheel with the motor, since we wanted to spin it slower than what the motor allowed us. We used a rubber band to create friction around the wheel. 
 
-Explore design boundaries (based on your expertise)
+###Explore design boundaries (based on your expertise)
 
 In the exploratory phase, we encouraged each other to work with unfamiliar topics so that we could expand our knowledge. Tatiana and Busi worked on Arduino, which is something they didn’t have much knowledge on, while Juaco experimented with the Kinect and we all worked on the grasshopper file, contributing what we could and asking Edu for help.
 
@@ -122,8 +122,8 @@ It would be nice to paint the board black so that we wouldn’t make any marks w
 
 ## Replicability
 
-Level of clarity and detail of the documentation material (photos, video, text, etc)
 How did you fabricate it (fabrication processes and materials)
+
 We started out by sketching various iterations of the structure. We first created a cardboard prototype to understand the dimensions and functionality of the box.
 
 <p float="left">
@@ -140,6 +140,22 @@ We started out by sketching various iterations of the structure. We first create
 
 After the prototype, we began to create the file to CNC. We settled for a MDF wooden panel which could hold in place the spinning wheel and the arm on which the motor was placed. Juaco designed some panels to hold the structure in Fusion, then worked on the gcode to be able to CNC them.
 We also modeled some attachments to keep all the electronic components in place. Juaco created an adapter from the motor to the disk (motor axle mount), another joint from the lever to the servo and a final one from the lever to the pen.
+
+Here are screenshots of the process done in grasshoppper.
+
+<p float="left">
+  <img src="/photos/GHArduino.png" width="200" />
+  <img src="/photos/GHFirstProgram.png" width="200" />
+  <img src="/photos/GHKinect.png" width="200" />
+  <img src="/photos/GHservo.png" width="200" />
+</p>
+
+
+<p float="left">
+  <img src="/photos/GHdcmotor1.png" width="300" />
+  <img src="/photos/GHdcmotor2.png" width="300" />
+  <img src="/photos/GHphrases.png" width="300" />
+</p>
 
 ### Design & Fabrication files (open source or open format)
 
