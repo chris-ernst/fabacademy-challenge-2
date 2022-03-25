@@ -5,9 +5,7 @@ Woah!! Tatiana, Busi, Joaquin and Chris are building an interactive feedback rec
 
 Here you'll find the [3D files for fabrication](/fab_files). All files CC. 
 
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOErRQPQ=/?moveToViewport=-555,-3315,3861,3052" frameBorder="0" scrolling="no" allowFullScreen></iframe>
-
+Find our Miro board here: https://miro.com/app/live-embed/uXjVOErRQPQ=/?moveToViewport=-555,-3315,3861,3052
 
 # Emergent Interrogations
 
@@ -161,6 +159,13 @@ Screenshots of the process:
   <img src="/photos/CNC4.JPG" width="200" />
 </p>
 
+<p float="left">
+  <img src="/photos/juaco_cnc_result.jpg" width="200" />
+  <img src="/photos/juaco_chris.jpeg" width="200" />
+  <img src="/photos/juaco_chris2.jpeg" width="200" />
+  <img src="/photos/3d2.png" width="200" />
+  <img src="/photos/tatiana.jpeg" width="200" />
+</p>
 
 
 ![photo](/photos/juaco_cnc_result.jpg)
@@ -176,18 +181,21 @@ Screenshots of the process:
 
 ### BOM (Build of Materials)
 
-* Computer ;)
-* Kinect
-* Arduino 13
-* Button
-* Motor
-* Servo
-* 10 cables
-* 1 MDF panel 1 220 x 2440 x 10.3 mm 
-* Carboard panel cut in a 50x50cm circle
-* Screw to fit between MDF panel and cardboard circle.
-* Acrylic scraps (Ours was 40x15cm)
-* 3D printed material
+<ul>
+<li> Computer ;)
+<li> Kinect
+<li> Arduino 13
+<li> Button
+<li> Motor
+<li> Servo
+<li> 10 cables
+<li> 1 MDF panel 1 220 x 2440 x 10.3 mm 
+<li> Carboard panel cut in a 50x50cm circle
+<li> Screw to fit between MDF panel and cardboard circle.
+<li> Acrylic scraps (Ours was 40x15cm)
+<li> 3D printed material
+ 
+ </ul>
 
 ### Iteration Process (spiral development)
 
