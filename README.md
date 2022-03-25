@@ -58,14 +58,14 @@ For example, Tatiana and Busi were interested in working with Grasshopper, Ardui
 Initial Sketches
 
 <p float="left">
-  <img src="/photos/sketch1.jpg" width="400" />
-  <img src="/photos/sketch2.jpg" width="400" /> 
+  <img src="/photos/sketch1.jpg" width="500" />
+  <img src="/photos/sketch2.jpg" width="500" /> 
 </p>
 
 <p float="left">
-  <img src="/photos/sketch3.jpg" width="300" />
-  <img src="/photos/sketch4.jpg" width="300" />
-  <img src="/photos/sketch5.jpg" width="300" />
+  <img src="/photos/sketch3.jpg" width="330" />
+  <img src="/photos/sketch4.jpg" width="330" />
+  <img src="/photos/sketch5.jpg" width="330" />
 </p>
 
 
@@ -165,7 +165,10 @@ The only thing that needed to be added was the motor that would spin the wheel f
 *Describe the problems and how the team solved them*
 
 There was a problem when trying to control the amount of time for which the motor was spinning. When controlled by the button, there was a strange ratio appearing on Grasshopper. The time was about 3x faster than the values that we inserted, and the problem only persisted with the button. The only way we could solve this was by modifying the step count from 1 second to 3 seconds.
+
 The motor’s spinning was hard to control: the threshold it had was very specific and below a certain number, it would just shut down. This meant that the full rotation was too fast for what we required. We solved this problem by creating a sort of gear with the spinning wheel.
+
+We encountered multiple incompatibilities when trying to combine separate Grasshopper files (the Kinect project + the electronics project) and we still do not know what the problem is. We had to rebuild and reset many of the nodes for the file to work again.
 
 
 *Photographies of the end artifacts*
