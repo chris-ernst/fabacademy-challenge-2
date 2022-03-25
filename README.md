@@ -135,7 +135,7 @@ We started out by sketching various iterations of the structure. We first create
 
 <p float="left">
   <img src="/photos/prototype.gif" width="400" />
-  <img src="/photos/Sensing1.png" width="400" />
+  <img src="/photos/Sensing1.png" width="550" />
 </p>
 
 
