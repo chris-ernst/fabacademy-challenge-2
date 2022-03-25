@@ -6,6 +6,7 @@ Woah!! Tatiana, Busi, Joaquin and Chris are building an interactive feedback rec
 Here you'll find the [3D files for fabrication](/fab_files). All files CC. 
 
 Find our Miro board here: https://miro.com/app/live-embed/uXjVOErRQPQ=/?moveToViewport=-555,-3315,3861,3052
+for more insight on the process behind making this project.
 
 # Emergent Interrogations
 
@@ -24,7 +25,12 @@ In combining and navigating our interests, we saw intersections in our interests
 
 After understanding our collective themes, we asked ourselves, how can we create an artifact that collects and presents data, using movement to answer provocative questions centered around MDEF journey and our collective consciousness.
 
-### Propose (What is supposed to do or not to do)
+These are the questions:
+
+![photo](/photos/questions.png)
+
+
+### Purpose (What is supposed to do or not to do)
 
 What should the Artifact do:
 
@@ -53,6 +59,9 @@ We subdivided the tasks between areas of interest/skill. Initially, whoever was 
 For example, Tatiana and Busi were interested in working with Grasshopper, Arduino and Kinect so they were in charge of most of the electronics. On Friday, when we were working to finish everything on time, Juaco was delegated to do the 3D models because he had lots of experience with them.
 
 ![photo](/photos/roles.png)
+
+
+
 
 ### System diagram (illustration explaining function, parts, and relations)
 
@@ -117,7 +126,10 @@ When it was time to work fast, however, we did give priority to those who had ex
 ### Listed future development opportunity for this project
 
 We wanted to explore how digital data can make physical products. It would be interesting to introduce more mediums to play with the Kinect.
+
 It would be nice to paint the board black so that we wouldn’t make any marks with the sharpie, and also find a good dimension white paper for the spinning wheel.
+
+For design dialogues, we would love to finalise the artifact.
 
 
 ## Replicability
