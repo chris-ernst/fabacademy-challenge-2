@@ -168,10 +168,13 @@ You can find all the files here: [3D files for fabrication](/fab_files).
 
 Screenshots of the process:
 
+Modelling the structure in Fusion:
+
 ![photo](/photos/Fusion1.png)
 ![photo](/photos/Fusion2.png)
 
 
+Process of cutting the MDF wood with the CNC 
 
 <p float="left">
   <img src="/photos/CNC1.JPG" width="200" />
@@ -180,6 +183,8 @@ Screenshots of the process:
   <img src="/photos/CNC4.JPG" width="200" />
 </p>
 
+Assembling and finalising the structure
+
 <p float="left">
   <img src="/photos/juaco_cnc_result.jpg" width="200" />
   <img src="/photos/juaco_chris.jpeg" width="200" />
@@ -187,16 +192,6 @@ Screenshots of the process:
   <img src="/photos/3d2.png" width="200" />
   <img src="/photos/tatiana.jpeg" width="200" />
 </p>
-
-
-![photo](/photos/juaco_cnc_result.jpg)
-
-![photo](/photos/juaco_chris.jpeg)
-![photo](/photos/juaco_chris2.jpeg)
-
-![photo](/photos/3d2.png)
-
-![photo](/photos/tatiana.jpeg)
 
 
 
