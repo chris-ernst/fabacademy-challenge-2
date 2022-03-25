@@ -68,12 +68,14 @@ Initial Sketches
   <img src="/photos/sketch5.jpg" width="330" />
 </p>
 
+![photo](/photos/system_diagram.jpeg)
+
 
 *Integrated Design (How you designed it - relation between elements)*
 
 Relation between elements
 
-Busi file
+
 
 *XBox Kinect to Firelfy: We connected the Kinect to Firefly creating parameters and co-ordinated to sense gestures and 
 
@@ -123,7 +125,17 @@ Level of clarity and detail of the documentation material (photos, video, text, 
 How did you fabricate it (fabrication processes and materials)
 We started out by sketching various iterations of the structure. We first created a cardboard prototype to understand the dimensions and functionality of the box.
 
+<p float="left">
+  <img src="/photos/Prototype1.JPG" width="200" />
+  <img src="/photos/Prototype2.JPG" width="200" />
+  <img src="/photos/Prototype3.JPG" width="200" />
+  <img src="/photos/Prototype4.JPG" width="200" />
+</p>
+
 ![photo](/photos/prototype.gif)
+
+![photo](/photos/Sensing1.png)
+
 
 After the prototype, we began to create the file to CNC. We settled for a MDF wooden panel which could hold in place the spinning wheel and the arm on which the motor was placed. Juaco designed some panels to hold the structure in Fusion, then worked on the gcode to be able to CNC them.
 We also modeled some attachments to keep all the electronic components in place. Juaco created an adapter from the motor to the disk (motor axle mount), another joint from the lever to the servo and a final one from the lever to the pen.
@@ -139,11 +151,12 @@ Screenshots of the process:
 
 
 
-![photo](/photos/CNC1.JPG)
-![photo](/photos/CNC2.JPG)
-![photo](/photos/CNC3.JPG)
-![photo](/photos/CNC4.JPG)
-
+<p float="left">
+  <img src="/photos/CNC1.JPG" width="200" />
+  <img src="/photos/CNC2.JPG" width="200" />
+  <img src="/photos/CNC3.JPG" width="200" />
+  <img src="/photos/CNC4.JPG" width="200" />
+</p>
 
 
 
@@ -153,6 +166,9 @@ Screenshots of the process:
 ![photo](/photos/juaco_chris2.jpeg)
 
 ![photo](/photos/3d2.png)
+
+![photo](/photos/tatiana.jpeg)
+
 
 
 *BOM (Build of Materials)*
