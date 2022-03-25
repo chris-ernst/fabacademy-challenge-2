@@ -189,10 +189,10 @@ Assembling and finalising the structure
   <img src="/photos/juaco_cnc_result.jpg" width="200" />
   <img src="/photos/juaco_chris.jpeg" width="200" />
   <img src="/photos/juaco_chris2.jpeg" width="200" />
-  <img src="/photos/3d2.png" width="200" />
-  <img src="/photos/tatiana.jpeg" width="200" />
+  <img src="/photos/3d2.png" width="300" />
 </p>
 
+![photo](/photos/tatiana.jpeg)
 
 
 ### BOM (Build of Materials)
