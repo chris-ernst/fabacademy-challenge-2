@@ -37,9 +37,9 @@ What should the Artifact do:
 * Connect to Kinect, Grasshopper, Firefly to recognise body movement and gestures via skeleton tracker
 * Through Grasshopper and Firefly, determine lines and points as nodes on the body that the Kinect has sensed to connect to a servo Motor
 * Control a servo Motor and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write component, use arm gestures to control the motors movement
-* Servo Motor should successfully move a pen and  move according to the gestures sensed through the kinect.
+* Servo Motor should successfully move a pen and move according to the gestures sensed through the kinect.
 * Control a DC and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write components. This motor should rotate a disk while the servo inscribes the drawing according to the gestures. 
-*A series of questions should be listed, where the observer answers YES or NO through arm gestures 
+* A series of questions should be listed, where the observer answers based on their arm gestures. 
 
 
 
