@@ -27,19 +27,19 @@ After understanding our collective themes, we asked ourselves, how can we create
 
 What should the Artifact do:
 
-*Connect to Kinect, Grasshopper, Firefly to recognise body movement and gestures via skeleton tracker
-*Through Grasshopper and Firefly, determine lines and points as nodes on the body that the Kinect has sensed to connect to a servo Motor
-*Control a servo Motor and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write component, use arm gestures to control the motors movement
-*Servo Motor should successfully move a pen and  move according to the gestures sensed through the kinect.
-*Control a DC and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write components. This motor should rotate a disk while the servo inscribes the drawing according to the gestures. 
+* Connect to Kinect, Grasshopper, Firefly to recognise body movement and gestures via skeleton tracker
+* Through Grasshopper and Firefly, determine lines and points as nodes on the body that the Kinect has sensed to connect to a servo Motor
+* Control a servo Motor and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write component, use arm gestures to control the motors movement
+* Servo Motor should successfully move a pen and  move according to the gestures sensed through the kinect.
+* Control a DC and its parameters on Grasshopper/ Firefly, using Arduino sketches and Uno Write components. This motor should rotate a disk while the servo inscribes the drawing according to the gestures. 
 *A series of questions should be listed, where the observer answers YES or NO through arm gestures 
 
 
 
 What should the Artifact not do:
 
-*The motors should move at the correct speed, not to fast or too slow
-*The questions/ prompts, the movement of the DC Motor should not be out of sinc. We calibrated each component to be in a 40 second window where each question should be answered in a 5 second window.
+* The motors should move at the correct speed, not to fast or too slow
+* The questions/ prompts, the movement of the DC Motor should not be out of sinc. We calibrated each component to be in a 40 second window where each question should be answered in a 5 second window.
 
 
 
@@ -77,11 +77,11 @@ Relation between elements
 
 
 
-*XBox Kinect to Firelfy: We connected the Kinect to Firefly creating parameters and co-ordinated to sense gestures and 
+* XBox Kinect to Firelfy: We connected the Kinect to Firefly creating parameters and co-ordinated to sense gestures and 
 
 
 
-*Honest Design (use of technology in a meaningful way, in relation to the topics)*
+* Honest Design (use of technology in a meaningful way, in relation to the topics)*
 
 CNC
 We used the CNC milling machine to create the structure for our design. Since we didn’t want to waste material by making avoidable mistakes, we initially prototyped the base using cardboard.
@@ -173,18 +173,18 @@ Screenshots of the process:
 
 *BOM (Build of Materials)*
 
-*Computer ;)
-*Kinect
-*Arduino 13
-*Button
-*Motor
-*Servo
-*10 cables
-*1 MDF panel 1 220 x 2440 x 10.3 mm 
-*Carboard panel cut in a 50x50cm circle
-*Screw to fit between MDF panel and cardboard circle.
-*Acrylic scraps (Ours was 40x15cm)
-*3D printed material
+* Computer ;)
+* Kinect
+* Arduino 13
+* Button
+* Motor
+* Servo
+* 10 cables
+* 1 MDF panel 1 220 x 2440 x 10.3 mm 
+* Carboard panel cut in a 50x50cm circle
+* Screw to fit between MDF panel and cardboard circle.
+* Acrylic scraps (Ours was 40x15cm)
+* 3D printed material
 
 *Iteration Process (spiral development)*
 
