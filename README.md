@@ -133,9 +133,10 @@ We started out by sketching various iterations of the structure. We first create
   <img src="/photos/Prototype4.JPG" width="200" />
 </p>
 
-![photo](/photos/prototype.gif)
-
-![photo](/photos/Sensing1.png)
+<p float="left">
+  <img src="/photos/prototype.gif" width="400" />
+  <img src="/photos/Sensing1.png" width="400" />
+</p>
 
 
 After the prototype, we began to create the file to CNC. We settled for a MDF wooden panel which could hold in place the spinning wheel and the arm on which the motor was placed. Juaco designed some panels to hold the structure in Fusion, then worked on the gcode to be able to CNC them.
@@ -158,7 +159,7 @@ Here are screenshots of the process done in grasshoppper.
 <p float="left">
   <img src="/photos/GHdcmotor1.png" width="350" />
   <img src="/photos/GHdcmotor2.png" width="350" />
-  <img src="/photos/GHphrases.png" width="350" />
+  <img src="/photos/GHophrases.png" width="350" />
 </p>
 
 ### Design & Fabrication files (open source or open format)
