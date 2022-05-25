@@ -252,4 +252,74 @@ Final photos:
 ![photo](/photos/final_mount.gif)
 
 
+### UPDATES
+
+## System diagram (illustration explaining function, parts, and relations) 
+
+
+<p float="left">
+  <img src="/photos/sketch1.jpg" width="500" />
+  <img src="/photos/sketch2.jpg" width="500" /> 
+</p>
+
+<p float="left">
+  <img src="/photos/sketch3.jpg" width="330" />
+  <img src="/photos/sketch4.jpg" width="330" />
+  <img src="/photos/sketch5.jpg" width="330" />
+</p>
+
+![photo](/photos/system_diagram.jpeg)
+
+A rotating piece of cardboard sits behind a wooden panel with a slit in it. This panel would be the base for the project: the slit would allow enough space for a marker to trace lines on the piece of paper. Next to the panel, a Kinect would track people's movements, making the pen move up and down according to the participants' replies to Yes/No questions. This way, we could have a collective data sketch allowing us to get feedback from participants at MDEF design dialogues.
+
+In retrospect, this device was far too complicated.
+
+## Integrated Design (How you designed it - relation between elements) 
+
+
+Relation between elements
+
+
+* XBox Kinect to Firefly: We connected the Kinect to Firefly creating parameters and co-ordinated to sense gestures and movement. The gestures involved a range of motion, which was then translated onto the mechanical "arm"
+* Arduino UNO: connected the mechanical arm and Rotational motor to Firefly  
+* Wooden structure: contained all of the components
+* Cables connected mosfet, motors, servos, potentionmeters etc. amongst each other and also to the computer containing Grasshopper files + Kinect data.
+
+
+## Listed future development opportunity for this project
+
+We wanted to explore how digital data can make physical products. It would be interesting to introduce more mediums to play with the Kinect.
+
+It would be nice to paint the board black so that we wouldn’t make any marks with the sharpie, and also find a good dimension white paper for the spinning wheel.
+
+In regards to modifications and future possibilities: 
+
+The servo motors could be used to collect different kinds of data, the questions could be modified and the type of Kinect movement can also be change. There are many possibilities!
+
+
+## Design & Fabrication files (open source or open format)
+
+All the files can be found in the fab_files folder
+
+
+## Described problems and how the team solved them
+
+We encountered some BIG problems regarding the time and difficulty in making this piece. Overall, we think it was too complex for a simple one-week project.
+
+There was a problem when trying to control the amount of time for which the motor was spinning. When controlled by the button, there was a strange ratio appearing on Grasshopper. The time was about 3x faster than the values that we inserted, and the problem only persisted with the button. The only way we could solve this was by modifying the step count from 1 second to 3 seconds. It was a sort of manual remapping of the values.
+
+The motor’s spinning was hard to control: the threshold it had was very specific and below a certain number, it would just shut down. This meant that the full rotation was too fast for what we required. We solved this problem by creating a gear with the spinning wheel, adding more friction to the rotation.
+
+We encountered multiple incompatibilities when trying to combine separate Grasshopper files (the Kinect project + the electronics project) and we still do not know what the problem is. We had to rebuild and reset many of the nodes for the file to work again.
+
+## Photographies of the end artifacts
+
+We did not have time to finish the final piece before design dialogues, so the only photos we have are these:
+
+![photo](/photos/update1.JPG)
+![photo](/photos/update2.JPG)
+![photo](/photos/update3.JPG)
+
+
+We hope it can be recycled into something else one day.
 
