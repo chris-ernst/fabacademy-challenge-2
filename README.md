@@ -303,6 +303,21 @@ The plan was to use this project as a way of gathering data and feedback from ex
 
 All the files can be found in the fab_files folder
 
+ARM.dxf
+- refers to the 3D printed piece for the object's arm which goes up and down the wheel.
+
+cutting blueprint.3dm
+- refers to the CNC cutting of the main MDF board.
+
+motor grab piece.stl
+- this refers to the mechanical piece which sit on top of the motor to connect it stably with the arm.
+
+pencil rail.stl
+- this is the component which sits around the pencil to drag it up and down the arm piece. 
+
+servo_motor.gh
+- this is the file which contains the grasshopper project to get all components to work.
+
 
 ## Described problems and how the team solved them
 
