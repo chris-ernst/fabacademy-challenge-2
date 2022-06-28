@@ -296,6 +296,8 @@ In regards to modifications and future possibilities:
 
 The servo motors could be used to collect different kinds of data, the questions could be modified and the type of Kinect movement can also be change. There are many possibilities!
 
+The plan was to use this project as a way of gathering data and feedback from external people about MDEF and Design Dialogues. However, with the correct modifications and customizations it could be an interactive feedback tool for any type of event: festivals, graduation, exhibitions etc. We think it could reflect a new way of gathering feedback from attendants to events, where they use their body to reply to prompts.
+
 
 ## Design & Fabrication files (open source or open format)
 
